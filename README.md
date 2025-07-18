@@ -1,7 +1,7 @@
 # 🛒 Amazon Sales Data Analysis
 ## 📌 Project Overview
 
-This repository presents a detailed analysis of **Amazon sales data**, carried out as part of a Data Analysis training project. The aim was to uncover insights into product performance, customer behavior, sales trends, and regional sales patterns using analytical tools like **Excel**, **Python (pandas, matplotlib, seaborn)**, and **SQL**.
+This repository presents a detailed analysis of **Amazon sales data**, carried out as part of a Data Analysis training project. The aim was to uncover insights into product performance, customer behavior, sales trends, and regional sales patterns using analytical tools like **Excel**, 
 
 Whether you're an aspiring analyst, a business owner, or a data enthusiast, this project offers a practical demonstration of how data can drive better decision-making.
 
@@ -74,7 +74,7 @@ Here are some sample insights generated during the analysis:
 
 ---
 
-## 📐 Methodology
+## STEPS
 
 ### 1. Data Cleaning
 - Removed null values
